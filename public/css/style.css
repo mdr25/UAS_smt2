@@ -1,0 +1,20 @@
+.summary-kategori {
+    background-color: #0a6b4a;
+    border-radius: 10px;
+  }
+  .summary-produk {
+    background-color: #0a516b;
+    border-radius: 10px;
+  }
+  .summary-pesanan {
+    background-color: #4D455D;
+    border-radius: 10px;
+  }
+
+  .icon-lg {
+    font-size: 5em;
+  }
+
+  .decoration {
+    text-decoration: none;
+  }
